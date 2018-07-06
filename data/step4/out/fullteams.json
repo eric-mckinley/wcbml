@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Germany",
+    "shortCode": "ger",
+    "scoreName": "germany"
+  },
+  {
+    "name": "Brazil",
+    "shortCode": "bra",
+    "scoreName": "brazil"
+  },
+  {
+    "name": "Belgium",
+    "shortCode": "bel",
+    "scoreName": "belgium"
+  },
+  {
+    "name": "Portugal",
+    "shortCode": "por",
+    "scoreName": "portugal"
+  },
+  {
+    "name": "Argentina",
+    "shortCode": "arg",
+    "scoreName": "argentina"
+  },
+  {
+    "name": "Switzerland",
+    "shortCode": "sui",
+    "scoreName": "switzerland"
+  },
+  {
+    "name": "France",
+    "shortCode": "fra",
+    "scoreName": "france"
+  },
+  {
+    "name": "Poland",
+    "shortCode": "pol",
+    "scoreName": "poland"
+  },
+  {
+    "name": "Chile",
+    "shortCode": "chi",
+    "scoreName": "chile"
+  },
+  {
+    "name": "Spain",
+    "shortCode": "esp",
+    "scoreName": "spain"
+  },
+  {
+    "name": "Peru",
+    "shortCode": "per",
+    "scoreName": "peru"
+  },
+  {
+    "name": "Denmark",
+    "shortCode": "den",
+    "scoreName": "denmark"
+  },
+  {
+    "name": "England",
+    "shortCode": "eng",
+    "scoreName": "england"
+  },
+  {
+    "name": "Uruguay",
+    "shortCode": "uru",
+    "scoreName": "uruguay"
+  },
+  {
+    "name": "Mexico",
+    "shortCode": "mex",
+    "scoreName": "mexico"
+  },
+  {
+    "name": "Colombia",
+    "shortCode": "col",
+    "scoreName": "colombia"
+  },
+  {
+    "name": "Netherlands",
+    "shortCode": "ned",
+    "scoreName": "netherlands"
+  },
+  {
+    "name": "Wales",
+    "shortCode": "wal",
+    "scoreName": "wales"
+  },
+  {
+    "name": "Italy",
+    "shortCode": "ita",
+    "scoreName": "italy"
+  },
+  {
+    "name": "Croatia",
+    "shortCode": "cro",
+    "scoreName": "croatia"
+  },
+  {
+    "name": "Tunisia",
+    "shortCode": "tun",
+    "scoreName": "tunisia"
+  },
+  {
+    "name": "Iceland",
+    "shortCode": "isl",
+    "scoreName": "iceland"
+  },
+  {
+    "name": "Costa Rica",
+    "shortCode": "crc",
+    "scoreName": "costa-rica"
+  },
+  {
+    "name": "Sweden",
+    "shortCode": "swe",
+    "scoreName": "sweden"
+  },
+  {
+    "name": "USA",
+    "shortCode": "usa",
+    "scoreName": "usa"
+  },
+  {
+    "name": "Austria",
+    "shortCode": "aut",
+    "scoreName": "austria"
+  },
+  {
+    "name": "Senegal",
+    "shortCode": "sen",
+    "scoreName": "senegal"
+  },
+  {
+    "name": "Slovakia",
+    "shortCode": "svk",
+    "scoreName": "slovakia"
+  },
+  {
+    "name": "Northern Ireland",
+    "shortCode": "nir",
+    "scoreName": "northern-ireland"
+  },
+  {
+    "name": "Romania",
+    "shortCode": "rou",
+    "scoreName": "romania"
+  },
+  {
+    "name": "Republic of Ireland",
+    "shortCode": "irl",
+    "scoreName": "republic-of-ireland"
+  },
+  {
+    "name": "Paraguay",
+    "shortCode": "par",
+    "scoreName": "paraguay"
+  },
+  {
+    "name": "Venezuela",
+    "shortCode": "ven",
+    "scoreName": "venezuela"
+  },
+  {
+    "name": "Serbia",
+    "shortCode": "srb",
+    "scoreName": "serbia"
+  },
+  {
+    "name": "Ukraine",
+    "shortCode": "ukr",
+    "scoreName": "ukraine"
+  },
+  {
+    "name": "Australia",
+    "shortCode": "aus",
+    "scoreName": "australia"
+  },
+  {
+    "name": "IR Iran",
+    "shortCode": "irn",
+    "scoreName": "iran"
+  },
+  {
+    "name": "Turkey",
+    "shortCode": "tur",
+    "scoreName": "turkey"
+  },
+  {
+    "name": "Congo DR",
+    "shortCode": "cod",
+    "scoreName": "congo-dr"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "shortCode": "bih",
+    "scoreName": "bosnia-and-herzegovina"
+  },
+  {
+    "name": "Morocco",
+    "shortCode": "mar",
+    "scoreName": "morocco"
+  },
+  {
+    "name": "Scotland",
+    "shortCode": "sco",
+    "scoreName": "scotland"
+  },
+  {
+    "name": "Montenegro",
+    "shortCode": "mne",
+    "scoreName": "montenegro"
+  },
+  {
+    "name": "Greece",
+    "shortCode": "gre",
+    "scoreName": "greece"
+  },
+  {
+    "name": "Egypt",
+    "shortCode": "egy",
+    "scoreName": "egypt"
+  },
+  {
+    "name": "Czech Republic",
+    "shortCode": "cze",
+    "scoreName": "czech-republic"
+  },
+  {
+    "name": "Ghana",
+    "shortCode": "gha",
+    "scoreName": "ghana"
+  },
+  {
+    "name": "Nigeria",
+    "shortCode": "nga",
+    "scoreName": "nigeria"
+  },
+  {
+    "name": "Bulgaria",
+    "shortCode": "bul",
+    "scoreName": "bulgaria"
+  },
+  {
+    "name": "Cameroon",
+    "shortCode": "cmr",
+    "scoreName": "cameroon"
+  },
+  {
+    "name": "Hungary",
+    "shortCode": "hun",
+    "scoreName": "hungary"
+  },
+  {
+    "name": "Burkina Faso",
+    "shortCode": "bfa",
+    "scoreName": "burkina-faso"
+  },
+  {
+    "name": "Norway",
+    "shortCode": "nor",
+    "scoreName": "norway"
+  },
+  {
+    "name": "Jamaica",
+    "shortCode": "jam",
+    "scoreName": "jamaica"
+  },
+  {
+    "name": "Panama",
+    "shortCode": "pan",
+    "scoreName": "panama"
+  },
+  {
+    "name": "Slovenia",
+    "shortCode": "svn",
+    "scoreName": "slovenia"
+  },
+  {
+    "name": "Korea Republic",
+    "shortCode": "kor",
+    "scoreName": "korea-republic"
+  },
+  {
+    "name": "Albania",
+    "shortCode": "alb",
+    "scoreName": "albania"
+  },
+  {
+    "name": "Bolivia",
+    "shortCode": "bol",
+    "scoreName": "bolivia"
+  },
+  {
+    "name": "Ecuador",
+    "shortCode": "ecu",
+    "scoreName": "ecuador"
+  },
+  {
+    "name": "Japan",
+    "shortCode": "jpn",
+    "scoreName": "japan"
+  },
+  {
+    "name": "Honduras",
+    "shortCode": "hon",
+    "scoreName": "honduras"
+  },
+  {
+    "name": "Finland",
+    "shortCode": "fin",
+    "scoreName": "finland"
+  },
+  {
+    "name": "Mali",
+    "shortCode": "mli",
+    "scoreName": "mali"
+  },
+  {
+    "name": "Cape Verde Islands",
+    "shortCode": "cpv",
+    "scoreName": "cape-verde-islands"
+  },
+  {
+    "name": "Algeria",
+    "shortCode": "alg",
+    "scoreName": "algeria"
+  },
+  {
+    "name": "Saudi Arabia",
+    "shortCode": "ksa",
+    "scoreName": "saudi-arabia"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "shortCode": "civ",
+    "scoreName": "ivory-coast"
+  },
+  {
+    "name": "Guinea",
+    "shortCode": "gui",
+    "scoreName": "guinea"
+  },
+  {
+    "name": "Russia",
+    "shortCode": "rus",
+    "scoreName": "russia"
+  },
+  {
+    "name": "FYR Macedonia",
+    "shortCode": "mkd",
+    "scoreName": "fyr-macedonia"
+  },
+  {
+    "name": "El Salvador",
+    "shortCode": "slv",
+    "scoreName": "el-salvador"
+  },
+  {
+    "name": "Syria",
+    "shortCode": "syr",
+    "scoreName": "syria"
+  },
+  {
+    "name": "South Africa",
+    "shortCode": "rsa",
+    "scoreName": "south-africa"
+  },
+  {
+    "name": "China PR",
+    "shortCode": "chn",
+    "scoreName": "china-pr"
+  },
+  {
+    "name": "Zambia",
+    "shortCode": "zam",
+    "scoreName": "zambia"
+  },
+  {
+    "name": "United Arab Emirates",
+    "shortCode": "uae",
+    "scoreName": "united-arab-emirates"
+  },
+  {
+    "name": "Belarus",
+    "shortCode": "blr",
+    "scoreName": "belarus"
+  },
+  {
+    "name": "Lebanon",
+    "shortCode": "lib",
+    "scoreName": "lebanon"
+  },
+  {
+    "name": "Canada",
+    "shortCode": "can",
+    "scoreName": "canada"
+  },
+  {
+    "name": "Uganda",
+    "shortCode": "uga",
+    "scoreName": "uganda"
+  },
+  {
+    "name": "Congo",
+    "shortCode": "cgo",
+    "scoreName": "congo-dr"
+  },
+  {
+    "name": "Oman",
+    "shortCode": "oma",
+    "scoreName": "oman"
+  },
+  {
+    "name": "Luxembourg",
+    "shortCode": "lux",
+    "scoreName": "luxembourg"
+  },
+  {
+    "name": "Cyprus",
+    "shortCode": "cyp",
+    "scoreName": "cyprus"
+  },
+  {
+    "name": "Iraq",
+    "shortCode": "irq",
+    "scoreName": "iraq"
+  },
+  {
+    "name": "Faroe Islands",
+    "shortCode": "fro",
+    "scoreName": "faroe-islands"
+  },
+  {
+    "name": "Israel",
+    "shortCode": "isr",
+    "scoreName": "israel"
+  },
+  {
+    "name": "Estonia",
+    "shortCode": "est",
+    "scoreName": "estonia"
+  },
+  {
+    "name": "Uzbekistan",
+    "shortCode": "uzb",
+    "scoreName": "uzbekistan"
+  },
+  {
+    "name": "Georgia",
+    "shortCode": "geo",
+    "scoreName": "georgia"
+  },
+  {
+    "name": "India",
+    "shortCode": "ind",
+    "scoreName": "india"
+  },
+  {
+    "name": "Qatar",
+    "shortCode": "qat",
+    "scoreName": "qatar"
+  },
+  {
+    "name": "New Zealand",
+    "shortCode": "nzl",
+    "scoreName": "new-zealand"
+  },
+  {
+    "name": "Lithuania",
+    "shortCode": "ltu",
+    "scoreName": "lithuania"
+  },
+  {
+    "name": "Latvia",
+    "shortCode": "lva",
+    "scoreName": "latvia"
+  },
+  {
+    "name": "Andorra",
+    "shortCode": "and",
+    "scoreName": "andorra"
+  },
+  {
+    "name": "Moldova",
+    "shortCode": "mda",
+    "scoreName": "moldova"
+  },
+  {
+    "name": "Liechtenstein",
+    "shortCode": "lie",
+    "scoreName": "liechtenstein"
+  },
+  {
+    "name": "Cuba",
+    "shortCode": "cub",
+    "scoreName": "cuba"
+  },
+  {
+    "name": "Malta",
+    "shortCode": "mlt",
+    "scoreName": "malta"
+  },
+  {
+    "name": "Gibraltar",
+    "shortCode": "gib",
+    "scoreName": "gibraltar"
+  }
+]
